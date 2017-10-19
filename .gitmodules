@@ -1,6 +1,9 @@
 [submodule "30-days-of-react-native"]
-	path = 30-days-of-react-native
-	url = https://github.com/fangwei716/30-days-of-react-native
+path=30-days-of-react-native
+url = https://github.com/fangwei716/30-days-of-react-native
+[submodule "AirBnb"]
+	path = AirBnb
+	url = https://github.com/VctrySam/AirBnb
 [submodule "awesome-react-native"]
 path=awesome-react-native
 url = https://github.com/jondot/awesome-react-native
@@ -26,20 +29,32 @@ url = https://github.com/huzidaha/react-naive-book
 path=react-native
 url = https://github.com/facebook/react-native
 [submodule "react-native-action-button"]
-	path = react-native-action-button
-	url = https://github.com/mastermoo/react-native-action-button
+path=react-native-action-button
+url = https://github.com/mastermoo/react-native-action-button
+[submodule "react-native-background-geolocation"]
+path=react-native-background-geolocation
+url = https://github.com/transistorsoft/react-native-background-geolocation
 [submodule "react-native-calendars"]
 path=react-native-calendars
 url = https://github.com/wix/react-native-calendars
+[submodule "react-native-firebase"]
+path=react-native-firebase
+url = https://github.com/invertase/react-native-firebase
 [submodule "react-native-fs"]
 path=react-native-fs
 url = https://github.com/itinance/react-native-fs
 [submodule "react-native-modalbox"]
-	path = react-native-modalbox
-	url = https://github.com/maxs15/react-native-modalbox
+path=react-native-modalbox
+url = https://github.com/maxs15/react-native-modalbox
+[submodule "react-native-shop-ui"]
+	path = react-native-shop-ui
+	url = https://github.com/ATF19/react-native-shop-ui
 [submodule "react-native-snap-carousel"]
-	path = react-native-snap-carousel
-	url = https://github.com/archriss/react-native-snap-carousel
+path=react-native-snap-carousel
+url = https://github.com/archriss/react-native-snap-carousel
+[submodule "react-native-sqlite-storage"]
+path=react-native-sqlite-storage
+url = https://github.com/andpor/react-native-sqlite-storage
 [submodule "react-native-storage"]
 path=react-native-storage
 url = https://github.com/sunnylqm/react-native-storage
@@ -52,3 +67,9 @@ url = https://github.com/booleanhunter/ReactJS-AdminLTE
 [submodule "reactjs101"]
 path=reactjs101
 url = https://github.com/kdchang/reactjs101
+[submodule "SnapChat"]
+	path = SnapChat
+	url = https://github.com/VctrySam/SnapChat
+[submodule "Twitter"]
+	path = Twitter
+	url = https://github.com/VctrySam/Twitter
