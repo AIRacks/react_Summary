@@ -1,6 +1,15 @@
+[submodule "emotion"]
+path=emotion
+url = https://github.com/emotion-js/emotion
 [submodule "material-ui"]
 path=material-ui
 url = https://github.com/callemall/material-ui.git
+[submodule "react-bits"]
+path=react-bits
+url = https://github.com/vasanthk/react-bits
+[submodule "react-in-patterns"]
+path=react-in-patterns
+url = https://github.com/krasimir/react-in-patterns
 [submodule "react-naive-book"]
 path=react-naive-book
 url = https://github.com/huzidaha/react-naive-book
