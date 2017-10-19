@@ -2,8 +2,8 @@
 path=30-days-of-react-native
 url = https://github.com/fangwei716/30-days-of-react-native
 [submodule "AirBnb"]
-	path = AirBnb
-	url = https://github.com/VctrySam/AirBnb
+path=AirBnb
+url = https://github.com/VctrySam/AirBnb
 [submodule "awesome-react-native"]
 path=awesome-react-native
 url = https://github.com/jondot/awesome-react-native
@@ -13,6 +13,9 @@ url = https://github.com/emotion-js/emotion
 [submodule "FinanceReactNative"]
 path=FinanceReactNative
 url = https://github.com/7kfpun/FinanceReactNative
+[submodule "instagramclone"]
+	path = instagramclone
+	url = https://github.com/holasebas/instagramclone
 [submodule "material-ui"]
 path=material-ui
 url = https://github.com/callemall/material-ui.git
@@ -43,12 +46,18 @@ url = https://github.com/invertase/react-native-firebase
 [submodule "react-native-fs"]
 path=react-native-fs
 url = https://github.com/itinance/react-native-fs
+[submodule "react-native-google-signin"]
+	path = react-native-google-signin
+	url = https://github.com/devfd/react-native-google-signin
+[submodule "react-native-linkedin"]
+	path = react-native-linkedin
+	url = https://github.com/xcarpentier/react-native-linkedin
 [submodule "react-native-modalbox"]
 path=react-native-modalbox
 url = https://github.com/maxs15/react-native-modalbox
 [submodule "react-native-shop-ui"]
-	path = react-native-shop-ui
-	url = https://github.com/ATF19/react-native-shop-ui
+path=react-native-shop-ui
+url = https://github.com/ATF19/react-native-shop-ui
 [submodule "react-native-snap-carousel"]
 path=react-native-snap-carousel
 url = https://github.com/archriss/react-native-snap-carousel
@@ -68,8 +77,8 @@ url = https://github.com/booleanhunter/ReactJS-AdminLTE
 path=reactjs101
 url = https://github.com/kdchang/reactjs101
 [submodule "SnapChat"]
-	path = SnapChat
-	url = https://github.com/VctrySam/SnapChat
+path=SnapChat
+url = https://github.com/VctrySam/SnapChat
 [submodule "Twitter"]
-	path = Twitter
-	url = https://github.com/VctrySam/Twitter
+path=Twitter
+url = https://github.com/VctrySam/Twitter
