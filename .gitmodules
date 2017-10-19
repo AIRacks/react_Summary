@@ -1,0 +1,15 @@
+[submodule "material-ui"]
+path=material-ui
+url = https://github.com/callemall/material-ui.git
+[submodule "react-naive-book"]
+path=react-naive-book
+url = https://github.com/huzidaha/react-naive-book
+[submodule "react-starter-kit"]
+path=react-starter-kit
+url = https://github.com/kriasoft/react-starter-kit
+[submodule "ReactJS-AdminLTE"]
+path=ReactJS-AdminLTE
+url = https://github.com/booleanhunter/ReactJS-AdminLTE
+[submodule "reactjs101"]
+path=reactjs101
+url = https://github.com/kdchang/reactjs101
