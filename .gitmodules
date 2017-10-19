@@ -1,6 +1,15 @@
+[submodule "30-days-of-react-native"]
+	path = 30-days-of-react-native
+	url = https://github.com/fangwei716/30-days-of-react-native
+[submodule "awesome-react-native"]
+path=awesome-react-native
+url = https://github.com/jondot/awesome-react-native
 [submodule "emotion"]
 path=emotion
 url = https://github.com/emotion-js/emotion
+[submodule "FinanceReactNative"]
+path=FinanceReactNative
+url = https://github.com/7kfpun/FinanceReactNative
 [submodule "material-ui"]
 path=material-ui
 url = https://github.com/callemall/material-ui.git
@@ -13,6 +22,27 @@ url = https://github.com/krasimir/react-in-patterns
 [submodule "react-naive-book"]
 path=react-naive-book
 url = https://github.com/huzidaha/react-naive-book
+[submodule "react-native"]
+path=react-native
+url = https://github.com/facebook/react-native
+[submodule "react-native-action-button"]
+	path = react-native-action-button
+	url = https://github.com/mastermoo/react-native-action-button
+[submodule "react-native-calendars"]
+path=react-native-calendars
+url = https://github.com/wix/react-native-calendars
+[submodule "react-native-fs"]
+path=react-native-fs
+url = https://github.com/itinance/react-native-fs
+[submodule "react-native-modalbox"]
+	path = react-native-modalbox
+	url = https://github.com/maxs15/react-native-modalbox
+[submodule "react-native-snap-carousel"]
+	path = react-native-snap-carousel
+	url = https://github.com/archriss/react-native-snap-carousel
+[submodule "react-native-storage"]
+path=react-native-storage
+url = https://github.com/sunnylqm/react-native-storage
 [submodule "react-starter-kit"]
 path=react-starter-kit
 url = https://github.com/kriasoft/react-starter-kit
