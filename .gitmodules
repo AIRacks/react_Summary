@@ -14,11 +14,14 @@ url = https://github.com/emotion-js/emotion
 path=FinanceReactNative
 url = https://github.com/7kfpun/FinanceReactNative
 [submodule "instagramclone"]
-	path = instagramclone
-	url = https://github.com/holasebas/instagramclone
+path=instagramclone
+url = https://github.com/holasebas/instagramclone
 [submodule "material-ui"]
 path=material-ui
 url = https://github.com/callemall/material-ui.git
+[submodule "mobile-center-sdk-react-native"]
+path=mobile-center-sdk-react-native
+url = https://github.com/Microsoft/mobile-center-sdk-react-native
 [submodule "react-bits"]
 path=react-bits
 url = https://github.com/vasanthk/react-bits
@@ -40,6 +43,9 @@ url = https://github.com/transistorsoft/react-native-background-geolocation
 [submodule "react-native-calendars"]
 path=react-native-calendars
 url = https://github.com/wix/react-native-calendars
+[submodule "react-native-camera-translator"]
+path=react-native-camera-translator
+url = https://github.com/DjordjePetrovic/react-native-camera-translator
 [submodule "react-native-firebase"]
 path=react-native-firebase
 url = https://github.com/invertase/react-native-firebase
@@ -47,11 +53,11 @@ url = https://github.com/invertase/react-native-firebase
 path=react-native-fs
 url = https://github.com/itinance/react-native-fs
 [submodule "react-native-google-signin"]
-	path = react-native-google-signin
-	url = https://github.com/devfd/react-native-google-signin
+path=react-native-google-signin
+url = https://github.com/devfd/react-native-google-signin
 [submodule "react-native-linkedin"]
-	path = react-native-linkedin
-	url = https://github.com/xcarpentier/react-native-linkedin
+path=react-native-linkedin
+url = https://github.com/xcarpentier/react-native-linkedin
 [submodule "react-native-modalbox"]
 path=react-native-modalbox
 url = https://github.com/maxs15/react-native-modalbox
@@ -67,9 +73,21 @@ url = https://github.com/andpor/react-native-sqlite-storage
 [submodule "react-native-storage"]
 path=react-native-storage
 url = https://github.com/sunnylqm/react-native-storage
+[submodule "react-native-unity-ads"]
+path=react-native-unity-ads
+url = https://github.com/th0th/react-native-unity-ads
+[submodule "react-native-voice"]
+path=react-native-voice
+url = https://github.com/wenkesj/react-native-voice
+[submodule "react-native-webrtc"]
+path=react-native-webrtc
+url = https://github.com/oney/react-native-webrtc
 [submodule "react-starter-kit"]
 path=react-starter-kit
 url = https://github.com/kriasoft/react-starter-kit
+[submodule "reaction-ecommerce"]
+path=reaction-ecommerce
+url = https://github.com/reactioncommerce/reaction
 [submodule "ReactJS-AdminLTE"]
 path=ReactJS-AdminLTE
 url = https://github.com/booleanhunter/ReactJS-AdminLTE
@@ -82,3 +100,9 @@ url = https://github.com/VctrySam/SnapChat
 [submodule "Twitter"]
 path=Twitter
 url = https://github.com/VctrySam/Twitter
+[submodule "unity-table"]
+path=unity-table
+url = https://github.com/auru/unity-table
+[submodule "reaction"]
+	path = reaction
+	url = https://github.com/reactioncommerce/reaction
