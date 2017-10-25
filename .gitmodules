@@ -85,24 +85,24 @@ url = https://github.com/oney/react-native-webrtc
 [submodule "react-starter-kit"]
 path=react-starter-kit
 url = https://github.com/kriasoft/react-starter-kit
-[submodule "reaction-ecommerce"]
-path=reaction-ecommerce
-url = https://github.com/reactioncommerce/reaction
+[submodule "reaction"]
+path=reaction
+url = https://github.com/booleanhunter/ReactJS-AdminLTE
 [submodule "ReactJS-AdminLTE"]
 path=ReactJS-AdminLTE
-url = https://github.com/booleanhunter/ReactJS-AdminLTE
+url = https://github.com/kdchang/reactjs101
 [submodule "reactjs101"]
 path=reactjs101
-url = https://github.com/kdchang/reactjs101
+url = https://github.com/VctrySam/SnapChat
 [submodule "SnapChat"]
 path=SnapChat
-url = https://github.com/VctrySam/SnapChat
+url = https://github.com/bayne/text-type-animation
+[submodule "text-type-animation"]
+path=text-type-animation
+url = https://github.com/VctrySam/Twitter
 [submodule "Twitter"]
 path=Twitter
-url = https://github.com/VctrySam/Twitter
+url = https://github.com/auru/unity-table
 [submodule "unity-table"]
 path=unity-table
-url = https://github.com/auru/unity-table
-[submodule "reaction"]
-	path = reaction
-	url = https://github.com/reactioncommerce/reaction
+
