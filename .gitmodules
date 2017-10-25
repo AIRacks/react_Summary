@@ -74,8 +74,8 @@ url = https://github.com/andpor/react-native-sqlite-storage
 path=react-native-storage
 url = https://github.com/sunnylqm/react-native-storage
 [submodule "react-native-textinput-effects"]
-	path = react-native-textinput-effects
-	url = https://github.com/halilb/react-native-textinput-effects
+path=react-native-textinput-effects
+url = https://github.com/halilb/react-native-textinput-effects
 [submodule "react-native-unity-ads"]
 path=react-native-unity-ads
 url = https://github.com/th0th/react-native-unity-ads
@@ -88,12 +88,15 @@ url = https://github.com/oney/react-native-webrtc
 [submodule "react-starter-kit"]
 path=react-starter-kit
 url = https://github.com/kriasoft/react-starter-kit
+[submodule "react-text-loop"]
+	path = react-text-loop
+	url = https://github.com/EDITD/react-text-loop
 [submodule "reaction"]
 path=reaction
-url = https://github.com/kdchang/reactjs101
+url = https://github.com/VctrySam/SnapChat
 [submodule "ReactJS-AdminLTE"]
 path=ReactJS-AdminLTE
-url = https://github.com/VctrySam/SnapChat
+url = https://github.com/bayne/text-type-animation
 [submodule "reactjs101"]
 path=reactjs101
 url = https://github.com/bayne/text-type-animation
@@ -102,7 +105,7 @@ path=SnapChat
 url = https://github.com/bayne/text-type-animation
 [submodule "text-type-animation"]
 path=text-type-animation
-url = https://github.com/auru/unity-table
+url = 
 [submodule "Twitter"]
 path=Twitter
 url = 
