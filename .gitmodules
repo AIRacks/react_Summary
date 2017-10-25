@@ -7,6 +7,9 @@ url = https://github.com/VctrySam/AirBnb
 [submodule "awesome-react-native"]
 path=awesome-react-native
 url = https://github.com/jondot/awesome-react-native
+[submodule "baffle-react"]
+	path = baffle-react
+	url = https://github.com/kedromelon/baffle-react
 [submodule "emotion"]
 path=emotion
 url = https://github.com/emotion-js/emotion
@@ -89,11 +92,11 @@ url = https://github.com/oney/react-native-webrtc
 path=react-starter-kit
 url = https://github.com/kriasoft/react-starter-kit
 [submodule "react-text-loop"]
-	path = react-text-loop
-	url = https://github.com/EDITD/react-text-loop
+path=react-text-loop
+url = https://github.com/EDITD/react-text-loop
 [submodule "reaction"]
 path=reaction
-url = https://github.com/VctrySam/SnapChat
+url = https://github.com/bayne/text-type-animation
 [submodule "ReactJS-AdminLTE"]
 path=ReactJS-AdminLTE
 url = https://github.com/bayne/text-type-animation
