@@ -43,6 +43,9 @@ url = https://github.com/transistorsoft/react-native-background-geolocation
 [submodule "react-native-calendars"]
 path=react-native-calendars
 url = https://github.com/wix/react-native-calendars
+[submodule "react-native-camera-translator"]
+path=react-native-camera-translator
+url = https://github.com/DjordjePetrovic/react-native-camera-translator
 [submodule "react-native-firebase"]
 path=react-native-firebase
 url = https://github.com/invertase/react-native-firebase
@@ -100,6 +103,12 @@ url = https://github.com/kdchang/reactjs101
 [submodule "SnapChat"]
 path=SnapChat
 url = https://github.com/VctrySam/SnapChat.git
+[submodule "text-type-animation"]
+path=text-type-animation
+url = https://github.com/bayne/text-type-animation
 [submodule "Twitter"]
 path=Twitter
 url = https://github.com/VctrySam/Twitter.git
+[submodule "unity-table"]
+path=unity-table
+url = https://github.com/auru/unity-table
