@@ -22,6 +22,9 @@ url = https://github.com/7kfpun/FinanceReactNative
 [submodule "instagramclone"]
 path=instagramclone
 url = https://github.com/holasebas/instagramclone
+[submodule "lottie-ios"]
+	path = lottie-ios
+	url = https://github.com/airbnb/lottie-ios
 [submodule "material-ui"]
 path=material-ui
 url = https://github.com/callemall/material-ui.git
@@ -61,6 +64,9 @@ url = https://github.com/devfd/react-native-google-signin
 [submodule "react-native-linkedin"]
 path=react-native-linkedin
 url = https://github.com/xcarpentier/react-native-linkedin
+[submodule "react-native-maps"]
+	path = react-native-maps
+	url = https://github.com/airbnb/react-native-maps
 [submodule "react-native-modalbox"]
 path=react-native-modalbox
 url = https://github.com/maxs15/react-native-modalbox
