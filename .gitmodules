@@ -4,6 +4,9 @@ url = https://github.com/fangwei716/30-days-of-react-native
 [submodule "AirBnb"]
 path=AirBnb
 url = https://github.com/VctrySam/AirBnb
+[submodule "AppCenter-SDK-React-Native"]
+path=AppCenter-SDK-React-Native
+url = https://github.com/Microsoft/AppCenter-SDK-React-Native
 [submodule "awesome-react-native"]
 path=awesome-react-native
 url = https://github.com/jondot/awesome-react-native
