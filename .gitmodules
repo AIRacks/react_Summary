@@ -23,8 +23,8 @@ url = https://github.com/7kfpun/FinanceReactNative
 path=instagramclone
 url = https://github.com/holasebas/instagramclone
 [submodule "lottie-ios"]
-	path = lottie-ios
-	url = https://github.com/airbnb/lottie-ios
+path=lottie-ios
+url = https://github.com/airbnb/lottie-ios
 [submodule "material-ui"]
 path=material-ui
 url = https://github.com/callemall/material-ui.git
@@ -65,8 +65,8 @@ url = https://github.com/devfd/react-native-google-signin
 path=react-native-linkedin
 url = https://github.com/xcarpentier/react-native-linkedin
 [submodule "react-native-maps"]
-	path = react-native-maps
-	url = https://github.com/airbnb/react-native-maps
+path=react-native-maps
+url = https://github.com/airbnb/react-native-maps
 [submodule "react-native-modalbox"]
 path=react-native-modalbox
 url = https://github.com/maxs15/react-native-modalbox
@@ -91,6 +91,12 @@ url = https://github.com/th0th/react-native-unity-ads
 [submodule "react-native-voice"]
 path=react-native-voice
 url = https://github.com/wenkesj/react-native-voice
+[submodule "react-native-web"]
+	path = react-native-web
+	url = https://github.com/necolas/react-native-web
+[submodule "react-native-web-player"]
+	path = react-native-web-player
+	url = https://github.com/dabbott/react-native-web-player
 [submodule "react-native-webrtc"]
 path=react-native-webrtc
 url = https://github.com/oney/react-native-webrtc
