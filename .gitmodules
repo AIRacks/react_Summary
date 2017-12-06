@@ -92,11 +92,11 @@ url = https://github.com/th0th/react-native-unity-ads
 path=react-native-voice
 url = https://github.com/wenkesj/react-native-voice
 [submodule "react-native-web"]
-	path = react-native-web
-	url = https://github.com/necolas/react-native-web
+path=react-native-web
+url = https://github.com/necolas/react-native-web
 [submodule "react-native-web-player"]
-	path = react-native-web-player
-	url = https://github.com/dabbott/react-native-web-player
+path=react-native-web-player
+url = https://github.com/dabbott/react-native-web-player
 [submodule "react-native-webrtc"]
 path=react-native-webrtc
 url = https://github.com/oney/react-native-webrtc
@@ -124,6 +124,9 @@ url = https://github.com/bayne/text-type-animation
 [submodule "Twitter"]
 path=Twitter
 url = https://github.com/VctrySam/Twitter.git
+[submodule "unity-api"]
+	path = unity-api
+	url = https://github.com/auru/unity-api
 [submodule "unity-table"]
 path=unity-table
 url = https://github.com/auru/unity-table
