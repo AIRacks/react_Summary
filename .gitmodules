@@ -5,8 +5,8 @@ url = https://github.com/fangwei716/30-days-of-react-native
 path=AirBnb
 url = https://github.com/VctrySam/AirBnb
 [submodule "anime"]
-	path = anime
-	url = https://github.com/juliangarnier/anime
+path=anime
+url = https://github.com/juliangarnier/anime
 [submodule "AppCenter-SDK-React-Native"]
 path=AppCenter-SDK-React-Native
 url = https://github.com/Microsoft/AppCenter-SDK-React-Native
@@ -22,6 +22,9 @@ url = https://github.com/emotion-js/emotion
 [submodule "FinanceReactNative"]
 path=FinanceReactNative
 url = https://github.com/7kfpun/FinanceReactNative
+[submodule "GreenSock-JS"]
+	path = GreenSock-JS
+	url = https://github.com/greensock/GreenSock-JS/
 [submodule "instagramclone"]
 path=instagramclone
 url = https://github.com/holasebas/instagramclone
