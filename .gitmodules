@@ -4,6 +4,9 @@ url = https://github.com/fangwei716/30-days-of-react-native
 [submodule "AirBnb"]
 path=AirBnb
 url = https://github.com/VctrySam/AirBnb
+[submodule "anime"]
+	path = anime
+	url = https://github.com/juliangarnier/anime
 [submodule "AppCenter-SDK-React-Native"]
 path=AppCenter-SDK-React-Native
 url = https://github.com/Microsoft/AppCenter-SDK-React-Native
@@ -125,8 +128,8 @@ url = https://github.com/bayne/text-type-animation
 path=Twitter
 url = https://github.com/VctrySam/Twitter.git
 [submodule "unity-api"]
-	path = unity-api
-	url = https://github.com/auru/unity-api
+path=unity-api
+url = https://github.com/auru/unity-api
 [submodule "unity-table"]
 path=unity-table
 url = https://github.com/auru/unity-table
