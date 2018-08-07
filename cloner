@@ -1,0 +1,2 @@
+cat .gitmodules  | grep https | awk '{print "git clone "$3}' > cloner.run
+. cloner.run
