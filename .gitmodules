@@ -1,138 +1,138 @@
-[submodule "30-days-of-react-native"]
-path=30-days-of-react-native
-url = https://github.com/fangwei716/30-days-of-react-native
-[submodule "AirBnb"]
-path=AirBnb
-url = https://github.com/VctrySam/AirBnb
-[submodule "anime"]
-path=anime
-url = https://github.com/juliangarnier/anime
-[submodule "AppCenter-SDK-React-Native"]
-path=AppCenter-SDK-React-Native
-url = https://github.com/Microsoft/AppCenter-SDK-React-Native
+[submodule "react-native-firebase"]
+path=react-native-firebase
+url = https://github.com/invertase/react-native-firebase
+[submodule "react-text-loop"]
+path=react-text-loop
+url = https://github.com/EDITD/react-text-loop
+[submodule "lottie-ios"]
+path=lottie-ios
+url = https://github.com/airbnb/lottie-ios
+[submodule "react-native-sqlite-storage"]
+path=react-native-sqlite-storage
+url = https://github.com/andpor/react-native-sqlite-storage
+[submodule "react-native-webrtc"]
+path=react-native-webrtc
+url = https://github.com/oney/react-native-webrtc
+[submodule "react-native-linkedin"]
+path=react-native-linkedin
+url = https://github.com/xcarpentier/react-native-linkedin
+[submodule "react-starter-kit"]
+path=react-starter-kit
+url = https://github.com/kriasoft/react-starter-kit
+[submodule "material-ui"]
+path=material-ui
+url = https://github.com/callemall/material-ui.git
+[submodule "react-in-patterns"]
+path=react-in-patterns
+url = https://github.com/krasimir/react-in-patterns
+[submodule "react-bits"]
+path=react-bits
+url = https://github.com/vasanthk/react-bits
+[submodule "react-native-unity-ads"]
+path=react-native-unity-ads
+url = https://github.com/th0th/react-native-unity-ads
+[submodule "SnapChat"]
+path=SnapChat
+url = https://github.com/VctrySam/SnapChat.git
 [submodule "awesome-react-native"]
 path=awesome-react-native
 url = https://github.com/jondot/awesome-react-native
-[submodule "baffle-react"]
-path=baffle-react
-url = https://github.com/kedromelon/baffle-react
-[submodule "emotion"]
-path=emotion
-url = https://github.com/emotion-js/emotion
+[submodule "unity-api"]
+path=unity-api
+url = https://github.com/auru/unity-api
+[submodule "react-native-fs"]
+path=react-native-fs
+url = https://github.com/itinance/react-native-fs
+[submodule "text-type-animation"]
+path=text-type-animation
+url = https://github.com/bayne/text-type-animation
+[submodule "AirBnb"]
+path=AirBnb
+url = https://github.com/VctrySam/AirBnb
+[submodule "react-native-google-signin"]
+path=react-native-google-signin
+url = https://github.com/devfd/react-native-google-signin
+[submodule "instagramclone"]
+path=instagramclone
+url = https://github.com/holasebas/instagramclone
+[submodule "30-days-of-react-native"]
+path=30-days-of-react-native
+url = https://github.com/fangwei716/30-days-of-react-native
+[submodule "react-native-background-geolocation"]
+path=react-native-background-geolocation
+url = https://github.com/transistorsoft/react-native-background-geolocation
+[submodule "unity-table"]
+path=unity-table
+url = https://github.com/auru/unity-table
+[submodule "react-native-camera-translator"]
+path=react-native-camera-translator
+url = https://github.com/DjordjePetrovic/react-native-camera-translator
+[submodule "ReactJS-AdminLTE"]
+path=ReactJS-AdminLTE
+url = https://github.com/booleanhunter/ReactJS-AdminLTE.git
 [submodule "FinanceReactNative"]
 path=FinanceReactNative
 url = https://github.com/7kfpun/FinanceReactNative
 [submodule "GreenSock-JS"]
-	path = GreenSock-JS
-	url = https://github.com/greensock/GreenSock-JS/
-[submodule "instagramclone"]
-path=instagramclone
-url = https://github.com/holasebas/instagramclone
-[submodule "lottie-ios"]
-path=lottie-ios
-url = https://github.com/airbnb/lottie-ios
-[submodule "material-ui"]
-path=material-ui
-url = https://github.com/callemall/material-ui.git
-[submodule "react-bits"]
-path=react-bits
-url = https://github.com/vasanthk/react-bits
-[submodule "react-in-patterns"]
-path=react-in-patterns
-url = https://github.com/krasimir/react-in-patterns
-[submodule "react-naive-book"]
-path=react-naive-book
-url = https://github.com/huzidaha/react-naive-book
-[submodule "react-native"]
-path=react-native
-url = https://github.com/facebook/react-native
-[submodule "react-native-action-button"]
-path=react-native-action-button
-url = https://github.com/mastermoo/react-native-action-button
-[submodule "react-native-background-geolocation"]
-path=react-native-background-geolocation
-url = https://github.com/transistorsoft/react-native-background-geolocation
-[submodule "react-native-calendars"]
-path=react-native-calendars
-url = https://github.com/wix/react-native-calendars
-[submodule "react-native-camera-translator"]
-path=react-native-camera-translator
-url = https://github.com/DjordjePetrovic/react-native-camera-translator
-[submodule "react-native-firebase"]
-path=react-native-firebase
-url = https://github.com/invertase/react-native-firebase
-[submodule "react-native-fs"]
-path=react-native-fs
-url = https://github.com/itinance/react-native-fs
-[submodule "react-native-google-signin"]
-path=react-native-google-signin
-url = https://github.com/devfd/react-native-google-signin
-[submodule "react-native-linkedin"]
-path=react-native-linkedin
-url = https://github.com/xcarpentier/react-native-linkedin
-[submodule "react-native-maps"]
-path=react-native-maps
-url = https://github.com/airbnb/react-native-maps
-[submodule "react-native-modalbox"]
-path=react-native-modalbox
-url = https://github.com/maxs15/react-native-modalbox
+path=GreenSock-JS
+url = https://github.com/greensock/GreenSock-JS/
+[submodule "react-native-voice"]
+path=react-native-voice
+url = https://github.com/wenkesj/react-native-voice
+[submodule "react-native-textinput-effects"]
+path=react-native-textinput-effects
+url = https://github.com/halilb/react-native-textinput-effects
+[submodule "reactjs101"]
+path=reactjs101
+url = https://github.com/kdchang/reactjs101
 [submodule "react-native-shop-ui"]
 path=react-native-shop-ui
 url = https://github.com/ATF19/react-native-shop-ui
 [submodule "react-native-snap-carousel"]
 path=react-native-snap-carousel
 url = https://github.com/archriss/react-native-snap-carousel
-[submodule "react-native-sqlite-storage"]
-path=react-native-sqlite-storage
-url = https://github.com/andpor/react-native-sqlite-storage
-[submodule "react-native-storage"]
-path=react-native-storage
-url = https://github.com/sunnylqm/react-native-storage
-[submodule "react-native-textinput-effects"]
-path=react-native-textinput-effects
-url = https://github.com/halilb/react-native-textinput-effects
-[submodule "react-native-unity-ads"]
-path=react-native-unity-ads
-url = https://github.com/th0th/react-native-unity-ads
-[submodule "react-native-voice"]
-path=react-native-voice
-url = https://github.com/wenkesj/react-native-voice
-[submodule "react-native-web"]
-path=react-native-web
-url = https://github.com/necolas/react-native-web
-[submodule "react-native-web-player"]
-path=react-native-web-player
-url = https://github.com/dabbott/react-native-web-player
-[submodule "react-native-webrtc"]
-path=react-native-webrtc
-url = https://github.com/oney/react-native-webrtc
-[submodule "react-starter-kit"]
-path=react-starter-kit
-url = https://github.com/kriasoft/react-starter-kit
-[submodule "react-text-loop"]
-path=react-text-loop
-url = https://github.com/EDITD/react-text-loop
-[submodule "reaction"]
-path=reaction
-url = https://github.com/reactioncommerce/reaction.git
-[submodule "ReactJS-AdminLTE"]
-path=ReactJS-AdminLTE
-url = https://github.com/booleanhunter/ReactJS-AdminLTE.git
-[submodule "reactjs101"]
-path=reactjs101
-url = https://github.com/kdchang/reactjs101
-[submodule "SnapChat"]
-path=SnapChat
-url = https://github.com/VctrySam/SnapChat.git
-[submodule "text-type-animation"]
-path=text-type-animation
-url = https://github.com/bayne/text-type-animation
+[submodule "react-native-calendars"]
+path=react-native-calendars
+url = https://github.com/wix/react-native-calendars
+[submodule "react-naive-book"]
+path=react-naive-book
+url = https://github.com/huzidaha/react-naive-book
 [submodule "Twitter"]
 path=Twitter
 url = https://github.com/VctrySam/Twitter.git
-[submodule "unity-api"]
-path=unity-api
-url = https://github.com/auru/unity-api
-[submodule "unity-table"]
-path=unity-table
-url = https://github.com/auru/unity-table
+[submodule "react-native-action-button"]
+path=react-native-action-button
+url = https://github.com/mastermoo/react-native-action-button
+[submodule "react-native"]
+path=react-native
+url = https://github.com/facebook/react-native
+[submodule "anime"]
+path=anime
+url = https://github.com/juliangarnier/anime
+[submodule "reaction"]
+path=reaction
+url = https://github.com/reactioncommerce/reaction.git
+[submodule "baffle-react"]
+path=baffle-react
+url = https://github.com/kedromelon/baffle-react
+[submodule "react-native-modalbox"]
+path=react-native-modalbox
+url = https://github.com/maxs15/react-native-modalbox
+[submodule "react-native-storage"]
+path=react-native-storage
+url = https://github.com/sunnylqm/react-native-storage
+[submodule "react-native-web"]
+path=react-native-web
+url = https://github.com/necolas/react-native-web
+[submodule "AppCenter-SDK-React-Native"]
+path=AppCenter-SDK-React-Native
+url = https://github.com/Microsoft/AppCenter-SDK-React-Native
+[submodule "emotion"]
+path=emotion
+url = https://github.com/emotion-js/emotion
+[submodule "react-native-web-player"]
+path=react-native-web-player
+url = https://github.com/dabbott/react-native-web-player
+[submodule "react-native-maps"]
+path=react-native-maps
+url = https://github.com/airbnb/react-native-maps
